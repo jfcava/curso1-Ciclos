@@ -7,7 +7,7 @@ namespace guia5Ejercicio3
         static void Main(string[] args)
         {
             // Hacer un programa que solicite 5 edades y luego 
-            // calcule el promedio de edad de aquellas personas mayores a 18 años.
+            // calcule el promedio de edad de aquellas personas mayores a 18 anios.
             
             
             int edad; 
